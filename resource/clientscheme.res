@@ -132,6 +132,7 @@ Scheme
 		"RedSolid"			"254 27 4 255"
 		"Yellow"			"225 225 225 255"
 		"TransparentYellow"	"255 255 255 140"
+		"BrightYellow"		"251 235 0 255"
         "GreenSolid"		 "76 107 34 255"
 		
 		"TransparentBlack"	"0 0 0 196"

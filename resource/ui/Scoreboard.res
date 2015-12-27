@@ -19,7 +19,8 @@
 		"score_width"		"24"
 		"ping_width"		"21"
 		"stats_width"		"30"
-		"killstreak_width"	"20"
+		"killstreak_width"	"15"
+		"killstreak_image_width" "15"
 	}
     
     "ServerTimeLeft" 
